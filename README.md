@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Fizard is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://fizard.com/
+Fizard provides a seamless integration platform connecting Stripe payment services with DATEV accounting software, enabling German businesses to automate invoice export, bookkeeping, and financial reporting. The solution offers real‑time data synchronization, customizable export formats, and a user‑friendly dashboard for managing transactions, subscriptions, and tax compliance. Fizard aims to reduce manual entry errors, accelerate financial workflows, and support scalable growth for enterprises using Stripe and DATEV.
+
+**Areas:** Integration · Automation · Accounting · Payments · Stripe · DATEV
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://fizard.com/)
+- [Documentation](https://fizard.com/ueber-uns)
+- [Pricing](https://fizard.com/preise)
+- [Sign up](https://app.fizard.com/auth/register)
+- [Support](https://hilfe.fizard.com)
+- [Blog](https://blog.fizard.com/)
+- [Trust centre](https://trust.fizard.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/fizard/](https://apis.io/providers/fizard/).
